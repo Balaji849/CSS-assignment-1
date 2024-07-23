@@ -1,0 +1,37 @@
+.box{
+    border: 1px solid lightgrey;
+    margin: 20px auto;
+    width:325px;
+    border-radius: 15px;
+    font-family:sans-serif
+    }
+    .box-img{
+    width:325px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    }
+    .box2{
+    padding-left:15px;
+    }
+    .box-p{
+    color:rgb(90, 89, 89);
+    font-weight: 600;
+    font-size: small;
+    }
+    .box-p1{
+    font-size:large;
+    }
+    .box-p2{
+    color:rgb(113, 110, 110);
+    }
+    .box-btn{
+        color:rgb(3, 113, 247);
+        font-weight: 550;
+        background-color: white;
+        border:1px solid lightgrey;
+        border-radius: 4px;
+        height: 40px;
+        width: 110px;
+        margin-bottom: 20px;
+        }
+        
